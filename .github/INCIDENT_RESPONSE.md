@@ -97,7 +97,7 @@ Supply-chain and CI/CD incidents are always treated as **Critical** regardless o
 Vulnerabilities and incidents may be reported or discovered through:
 
 1. **GitHub private security advisory** — preferred channel; see [SECURITY.md](SECURITY.md)
-2. **Tidelift security contact** — <https://tidelift.com/security>
+2. **Tidelift security contact** — <https://tidelift.com/docs/security>
 3. **External researcher / coordinated disclosure** — e.g. Google Project Zero, vendor PSIRT
 4. **Automated scanning** — Dependabot, GitHub code-scanning (CodeQL), CI fuzzing
 5. **Distro security teams** — Debian, Red Hat, Ubuntu, Alpine may report upstream
@@ -326,7 +326,7 @@ This document is a living record. It should be kept current so it is useful when
 - [Security Policy](SECURITY.md)
 - [Release Checklist](../RELEASING.md)
 - [Contributing Guide](CONTRIBUTING.md)
-- [Tidelift Security Contact](https://tidelift.com/security)
+- [Tidelift Security Contact](https://tidelift.com/docs/security)
 - [GitHub: Privately reporting a security vulnerability](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability)
 - [GitHub as a CVE Numbering Authority (CNA)](https://docs.github.com/en/code-security/security-advisories/working-with-repository-security-advisories/about-repository-security-advisories)
 - [FIRST CVSS 4.0 Calculator](https://www.first.org/cvss/calculator/4.0)
